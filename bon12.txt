@@ -1,0 +1,5 @@
+Bon cu id12
+Produs 1: 2 Cantitate: 3
+Produs 2: 6 Cantitate: 5
+Produs 3: 4 Cantitate: 2
+

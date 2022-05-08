@@ -1,0 +1,5 @@
+Bon cu id11
+Produs 1: 3Cantitate: 2
+Produs 2: 5Cantitate: 3
+Produs 3: 7Cantitate: 6
+
